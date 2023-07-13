@@ -1,11 +1,12 @@
 # 📈🧪 Data Analytics Program 🧠📊: The Journey of Emmanuel Ikogho
+
 ![profile-pic (12)](https://github.com/ikoghoemmanuell/DAP-Trainee-Story/assets/102419217/a3bb234a-b613-4857-8d86-a44aaa20104d)
 
 Welcome to the story of my experience in the Data Analytics Program. Let me take you through the ups and downs, the challenges, and the achievements of my journey.
 
 ## Introduction: The Foundation
 
-Starting from my childhood on a farm, where we cared for thousands of birds and had a fishery with catfish and trained snails, farming and animals became a significant part of my life in Nigeria. In 2020, during the pandemic, I discovered data science and started learning about it, but self-learning became overwhelming. 
+Starting from my childhood on a farm, where we cared for thousands of birds and had a fishery with catfish and trained snails, farming and animals became a significant part of my life in Nigeria. In 2020, during the pandemic, I discovered data science and started learning about it, but self-learning became overwhelming.
 
 Two years later, my aunt shared a link to Azubi Africa, a program with actual data analysts as instructors. Despite challenges like unreliable power supply, I remained efficient and got a solar panel, fueling my passion for data analysis. Inspired by my parent's financial struggles as University lecturers, I chose the well-compensated and balanced field of technology and data analysis, ready to make my mark.
 
@@ -41,14 +42,14 @@ My dream company is one that values innovation, collaboration, and social respon
 
 Please refer to the table below for a summary of the projects I have worked on during the program:
 
-| Project Name                                                  | Description                                                          | Medium Article                                                                                     | GitHub Repository                                         | Deployed App |
-| ------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------ |
-| Indian-Start-up-Funding-Analysis                              | Analyzing funding received by Indian start-ups from 2018 to 2021     | [Link](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis)                              |
-| Regression-Project                                            | Predicting store sales for a large Ecuadorian-based grocery retailer | [Link](https://github.com/Gilbert-B/Regression-Project)                                            |
-| Predicting Customer Churn                                     | Predicting customer churn for a target organization                  | [Link](https://github.com/Gilbert-B/Predicting-Customer-Churn)                                     |
-| Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT | Embedding a machine learning model into a web app using Streamlit    | [Link](https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-STREAMLIT) |
-| Embedding-a-Machine-Learning-Model-Into-A-GUI-using-GRADIO    | Embedding a machine learning model into a web app using Gradio       | [Link](https://github.com/Gilbert-B/Embedding-a-Machine-Learning-Model-Into-A-GUI-using-GRADIO)    |
-| Natural-Language-Processing-Sentiment-Analysis                | Sentiment analysis of tweets using deep learning models              | [Link](https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis-)               | [Link](https://huggingface.co/spaces/GhylB/Sentiment_App) |
+| Project Name                                               | Description                                                          | Medium Article                                                                                                                                                                                                                                                   | GitHub Repository                                                                                     | Deployed App                                                                                                                                                                 |
+| ---------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Indian Start-up Funding Analysis                           | Analyzing funding received by Indian start-ups from 2018 to 2021     | [Medium Article](https://medium.com/@emmanuel.ikogho/data-analysis-project-indian-start-up-funding-analysis-4e01d51a0c7c?_branch_match_id=1147380986669308170&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1S90d3Z0M6oIci5PAgCvG5ByIwAAAA%3D%3D) | [GitHub Repo](https://github.com/ikoghoemmanuell/Exploratory-Data-Analysis-on-Indian-Startup-Funding) | Not Applicable                                                                                                                                                               |
+| Time Series Forecasting for Store Sales                    | Predicting store sales for a large Ecuadorian-based grocery retailer | [Medium Article](https://medium.com/@emmanuel.ikogho/regression-project-store-sales-time-series-forecasting-635ba7818989)                                                                                                                                        | [GitHub Repo](https://github.com/ikoghoemmanuell/Time-Series-Forecasting-of-Store-Sales/tree/main)    | [Streamlit Apk](https://huggingface.co/spaces/ikoghoemmanuell/Churn-Classification-App-Streamlit)                                                                            |
+| Predicting Customer Churn                                  | Predicting customer retention for an organization                    | [Medium Article](https://medium.com/@emmanuel.ikogho/classification-predicting-customer-churn-3456c488aaf9)                                                                                                                                                      | [GitHub Repo](https://github.com/ikoghoemmanuell/Classification----Predicting-Customer-Churn)         | [Gradio Apk](https://huggingface.co/spaces/ikoghoemmanuell/Churn-Classification-App-Gradio)                                                                                  |
+| Deploying a ML Model with Streamlit                        | Embedding a machine learning model into a web app using Streamlit    | [Medium Article](https://medium.com/p/76d51b8d6e05/edit)                                                                                                                                                                                                         | [GitHub Repo](https://github.com/ikoghoemmanuell/Deploying-a-ML-Model-with-Streamlit)                 | [Streamlit Apk](https://huggingface.co/spaces/ikoghoemmanuell/Churn-Classification-App-Streamlit)                                                                            |
+| Embedding a Machine Learning Model Into A GUI using GRADIO | Embedding a machine learning model into a web app using Gradio       | [Medium Article](https://medium.com/@emmanuel.ikogho/deploying-a-machine-learning-model-with-gradio-97d4f8c5e795)                                                                                                                                                | [GitHub Repo](https://github.com/ikoghoemmanuell/gradio-classification-app)                           | [Gradio Apk](https://huggingface.co/spaces/ikoghoemmanuell/Churn-Classification-App-Gradio)                                                                                  |
+| Sentiment Analysis with Finetuned Models                   | Determine the sentiment of tweets using deep learning models         | [Medium Article](https://medium.com/@emmanuel.ikogho/sentiment-analysis-with-finetuned-models-aef6ed52ace3)                                                                                                                                                      | [GitHub Repo](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models)            | [Streamlit](https://huggingface.co/spaces/ikoghoemmanuell/Sentiment-analysis-WebApp) [Gradio](https://huggingface.co/spaces/ikoghoemmanuell/sentiment-Classifier-App-Gradio) |
 
 ## AZUBI Interview
 
@@ -70,10 +71,10 @@ Here are my responses to the AZUBI interview questions:
 
 Connect with me on LinkedIn or explore my Medium articles for more insights:
 
-- [LinkedIn](https://www.linkedin.com/in/gilbert-botchway/)
-- [Medium](https://medium.com/@botchwaykojo/)
-- [Huggingface](https://huggingface.co/GhylB/)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-ikogho/)
+- [Medium](https://medium.com/@emmanuel.ikogho)
+- [Portfolio Website](https://emmanuelikogho.netlify.app/)
 
 ## Fun Fact: I'm a gym rat😂
-![ezgif com-optimize (1)](https://github.com/ikoghoemmanuell/DAP-Trainee-Story/assets/102419217/8f7a594d-0334-4df3-ad96-9ffd9466cdce)
 
+![ezgif com-optimize (1)](https://github.com/ikoghoemmanuell/DAP-Trainee-Story/assets/102419217/8f7a594d-0334-4df3-ad96-9ffd9466cdce)
